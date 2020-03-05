@@ -1,3 +1,6 @@
+# Diagram
+https://dbdiagram.io/d/5d6f1baeced98361d6de2cbe
+
 # MySQL-Exercises-with-Sakila-DB-
 
 * 1a. Display the first and last names of all actors from the table `actor`. 
